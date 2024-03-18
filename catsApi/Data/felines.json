@@ -1,0 +1,57 @@
+[
+    {
+      "Id": 1,
+      "Name": "Zim",
+      "Breed": "Farm cat"
+    },
+    {
+      "Id": 2,
+      "Name": "Inez",
+      "Breed": "Bombay"
+    },
+    {
+      "Id": 3,
+      "Name": "Dobby",
+      "Breed": "Sphynx"
+    },
+    {
+      "Id": 4,
+      "Name": "Cosmo",
+      "Breed": "Neva Masquerade"
+    },
+    {
+      "Id": 5,
+      "Name": "Ponani",
+      "Breed": "Ragdoll"
+    },
+    {
+      "Id": 6,
+      "Name": "Simba",
+      "Breed": "Farm cat"
+    },
+    {
+      "Id": 7,
+      "Name": "Ceasar",
+      "Breed": "Farm cat"
+    },
+    {
+      "Id": 8,
+      "Name": "Bandit",
+      "Breed": "Farm cat"
+    },
+    {
+      "Id": 9,
+      "Name": "Tiger",
+      "Breed": "Farm cat"
+    },
+    {
+      "Id": 10,
+      "Name": "Sotis",
+      "Breed": "Farm cat"
+    },
+    {
+      "Id": 11,
+      "Name": "Gullan",
+      "Breed": "Farm cat"
+    }
+  ]
